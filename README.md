@@ -1,3 +1,10 @@
+## 📣 Community Help
+
+If you have questions or need assistance with Infura services, please visit the [Infura Support Center](https://support.infura.io/).
+
+Please avoid opening GitHub Issues for support-related topics — they're intended for bugs and feature requests.
+
+
 # Infura
 
 **[Website](https://infura.io)**
